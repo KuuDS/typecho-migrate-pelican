@@ -1,0 +1,12 @@
+# typecho-migrate-pelican
+# Copyright: 2019, KuuDS
+# License: Mozilla Public License v2.0 (MPL v2.0)
+
+# prefix of tables
+db.table.prefix=typecho_xxxx
+# path to db file
+db.path=./test.db
+# output path
+output.path=D://
+# author name
+author.name=Your Name
